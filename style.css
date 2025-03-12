@@ -331,9 +331,9 @@ span{
         .intro h1 {
             font-size: 1.5rem; /* Larger text for larger screens */
         }
-        .picture {
+/*         .picture {
             width: 400px;
-            height: 200px;
+            height: 200px; */
         }
     }
     
